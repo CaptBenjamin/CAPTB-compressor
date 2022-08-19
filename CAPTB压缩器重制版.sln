@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31320.298
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPTB压缩器重制版", "CAPTB压缩器重制版.csproj", "{13934610-75A3-42F2-B9A5-A33DB824915C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13934610-75A3-42F2-B9A5-A33DB824915C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13934610-75A3-42F2-B9A5-A33DB824915C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13934610-75A3-42F2-B9A5-A33DB824915C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13934610-75A3-42F2-B9A5-A33DB824915C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3EA282-B548-4B54-A546-5E5110B94866}
+	EndGlobalSection
+EndGlobal
