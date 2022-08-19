@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://69.176.89.49/CBCompressorRemake/Install/</PublishUrl>
+    <PublishUrl>W:\LYKNSDeveloper\CBR\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,18 +23,18 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://69.176.89.49:81/CBCompressorRemake/Install/</InstallUrl>
-    <SupportUrl>http://69.176.89.49/connect</SupportUrl>
-    <ErrorReportUrl>http://69.176.89.49:81/CBCompressorRemake/Install/</ErrorReportUrl>
+    <InstallUrl>https://dev.lykns.tk/CBR/</InstallUrl>
+    <SupportUrl>https://www.lykns.tk/connect</SupportUrl>
+    <ErrorReportUrl>https://www.lykns.tk/</ErrorReportUrl>
     <TargetCulture>zh-CN</TargetCulture>
     <ProductName>CB压缩器重制版</ProductName>
-    <PublisherName>LYK Network System</PublisherName>
+    <PublisherName>LYKNS</PublisherName>
     <SuiteName>CB压缩器</SuiteName>
     <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
-    <WebPage>index.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
